@@ -41,165 +41,225 @@ import Thirtynine from '../../../src/Images/39.jpg';
 const Gallery = () => (
   <div className="row">
 
-   <div class="col-lg-3 col-md-4 col-xs-6">
+   <div class="col-lg-4 col-md-4 col-xs-6">
       <a href="#" class="d-block mb-4 h-100">
-        <img class="img-fluid img-thumbnail" src={One} alt=""/>
+        <img class="img-fluid img-thumbnail" src={One} alt="Tattoo"/>
       </a>
     </div>
 
-       <div class="col-lg-3 col-md-4 col-xs-6">
+       <div class="col-lg-4 col-md-4 col-xs-6">
       <a href="#" class="d-block mb-4 h-100">
-        <img class="img-fluid img-thumbnail" src={Two} alt=""/>
+        <img class="img-fluid img-thumbnail" src={Two} alt="Tattoo"/>
       </a>
     </div>
 
-       <div class="col-lg-3 col-md-4 col-xs-6">
+       <div class="col-lg-4 col-md-4 col-xs-6">
       <a href="#" class="d-block mb-4 h-100">
-        <img class="img-fluid img-thumbnail" src={Three} alt=""/>
+        <img class="img-fluid img-thumbnail" src={Three} alt="Tattoo"/>
       </a>
     </div>
 
-       <div class="col-lg-3 col-md-4 col-xs-6">
+       <div class="col-lg-4 col-md-4 col-xs-6">
       <a href="#" class="d-block mb-4 h-100">
-        <img class="img-fluid img-thumbnail" src={Four} alt=""/>
+        <img class="img-fluid img-thumbnail" src={Four} alt="Tattoo"/>
       </a>
     </div>
 
-       <div class="col-lg-3 col-md-4 col-xs-6">
+       <div class="col-lg-4 col-md-4 col-xs-6">
       <a href="#" class="d-block mb-4 h-100">
-        <img class="img-fluid img-thumbnail" src={Five}  alt=""/>
+        <img class="img-fluid img-thumbnail" src={Five}  alt="Tattoo"/>
       </a>
     </div>
 
-       <div class="col-lg-3 col-md-4 col-xs-6">
+       <div class="col-lg-4 col-md-4 col-xs-6">
       <a href="#" class="d-block mb-4 h-100">
-        <img class="img-fluid img-thumbnail" src={Six} alt=""/>
+        <img class="img-fluid img-thumbnail" src={Six} alt="Tattoo"/>
       </a>
     </div>
 
-       <div class="col-lg-3 col-md-4 col-xs-6">
+       <div class="col-lg-4 col-md-4 col-xs-6">
       <a href="#" class="d-block mb-4 h-100">
-        <img class="img-fluid img-thumbnail" src={Seven} alt=""/>
+        <img class="img-fluid img-thumbnail" src={Seven} alt="Tattoo"/>
       </a>
     </div>
 
-       <div class="col-lg-3 col-md-4 col-xs-6">
+       <div class="col-lg-4 col-md-4 col-xs-6">
       <a href="#" class="d-block mb-4 h-100">
-        <img class="img-fluid img-thumbnail" src={Eight} alt=""/>
+        <img class="img-fluid img-thumbnail" src={Eight} alt="Tattoo"/>
       </a>
     </div>
 
-       <div class="col-lg-3 col-md-4 col-xs-6">
+       <div class="col-lg-4 col-md-4 col-xs-6">
       <a href="#" class="d-block mb-4 h-100">
-        <img class="img-fluid img-thumbnail" src={Nine} alt=""/>
+        <img class="img-fluid img-thumbnail" src={Nine} alt="Tattoo"/>
       </a>
     </div>
 
-       <div class="col-lg-3 col-md-4 col-xs-6">
+       <div class="col-lg-4 col-md-4 col-xs-6">
       <a href="#" class="d-block mb-4 h-100">
-        <img class="img-fluid img-thumbnail" src={Ten} alt=""/>
+        <img class="img-fluid img-thumbnail" src={Ten} alt="Tattoo"/>
       </a>
     </div>
 
-       <div class="col-lg-3 col-md-4 col-xs-6">
+       <div class="col-lg-4 col-md-4 col-xs-6">
       <a href="#" class="d-block mb-4 h-100">
-        <img class="img-fluid img-thumbnail" src={Twelwe} alt=""/>
+        <img class="img-fluid img-thumbnail" src={Twelwe} alt="Tattoo"/>
       </a>
     </div>
 
-       <div class="col-lg-3 col-md-4 col-xs-6">
+       <div class="col-lg-4 col-md-4 col-xs-6">
       <a href="#" class="d-block mb-4 h-100">
-        <img class="img-fluid img-thumbnail" src={Thirteen} alt=""/>
+        <img class="img-fluid img-thumbnail" src={Thirteen} alt="Tattoo"/>
       </a>
     </div>
 
-       <div class="col-lg-3 col-md-4 col-xs-6">
+       <div class="col-lg-4 col-md-4 col-xs-6">
       <a href="#" class="d-block mb-4 h-100">
-        <img class="img-fluid img-thumbnail" src={Fifteen} alt=""/>
+        <img class="img-fluid img-thumbnail" src={Fifteen} alt="Tattoo"/>
       </a>
     </div>
 
-       <div class="col-lg-3 col-md-4 col-xs-6">
+       <div class="col-lg-4 col-md-4 col-xs-6">
       <a href="#" class="d-block mb-4 h-100">
-        <img class="img-fluid img-thumbnail" src={Sixteen} alt=""/>
+        <img class="img-fluid img-thumbnail" src={Sixteen} alt="Tattoo"/>
       </a>
     </div>
 
-    <div class="col-lg-3 col-md-4 col-xs-6">
+    <div class="col-lg-4 col-md-4 col-xs-6">
       <a href="#" class="d-block mb-4 h-100">
-        <img class="img-fluid img-thumbnail" src={Seventeen} alt=""/>
+        <img class="img-fluid img-thumbnail" src={Seventeen} alt="Tattoo"/>
       </a>
     </div>
 
-        <div class="col-lg-3 col-md-4 col-xs-6">
+        <div class="col-lg-4 col-md-4 col-xs-6">
       <a href="#" class="d-block mb-4 h-100">
-        <img class="img-fluid img-thumbnail" src={Eighteen} alt=""/>
+        <img class="img-fluid img-thumbnail" src={Eighteen} alt="Tattoo"/>
       </a>
     </div>
 
-            <div class="col-lg-3 col-md-4 col-xs-6">
+            <div class="col-lg-4 col-md-4 col-xs-6">
       <a href="#" class="d-block mb-4 h-100">
-        <img class="img-fluid img-thumbnail" src={Nineteen} alt=""/>
+        <img class="img-fluid img-thumbnail" src={Nineteen} alt="Tattoo"/>
       </a>
     </div>
 
-            <div class="col-lg-3 col-md-4 col-xs-6">
+            <div class="col-lg-4 col-md-4 col-xs-6">
       <a href="#" class="d-block mb-4 h-100">
-        <img class="img-fluid img-thumbnail" src={Twenty} alt=""/>
+        <img class="img-fluid img-thumbnail" src={Twenty} alt="Tattoo"/>
       </a>
     </div>
 
-                <div class="col-lg-3 col-md-4 col-xs-6">
+                <div class="col-lg-4 col-md-4 col-xs-6">
       <a href="#" class="d-block mb-4 h-100">
-        <img class="img-fluid img-thumbnail" src={Twentyone} alt=""/>
+        <img class="img-fluid img-thumbnail" src={Twentyone} alt="Tattoo"/>
       </a>
     </div>
 
-            <div class="col-lg-3 col-md-4 col-xs-6">
+            <div class="col-lg-4 col-md-4 col-xs-6">
       <a href="#" class="d-block mb-4 h-100">
-        <img class="img-fluid img-thumbnail" src={Twentytwo} alt=""/>
+        <img class="img-fluid img-thumbnail" src={Twentytwo} alt="Tattoo"/>
       </a>
     </div>
 
-                 <div class="col-lg-3 col-md-4 col-xs-6">
+                 <div class="col-lg-4 col-md-4 col-xs-6">
       <a href="#" class="d-block mb-4 h-100">
-        <img class="img-fluid img-thumbnail" src={Twentythree} alt=""/>
+        <img class="img-fluid img-thumbnail" src={Twentythree} alt="Tattoo"/>
       </a>
     </div>
 
-            <div class="col-lg-3 col-md-4 col-xs-6">
+            <div class="col-lg-4 col-md-4 col-xs-6">
       <a href="#" class="d-block mb-4 h-100">
-        <img class="img-fluid img-thumbnail" src={Twentyfour} alt=""/>
+        <img class="img-fluid img-thumbnail" src={Twentyfour} alt="Tattoo"/>
       </a>
     </div>
 
-                 <div class="col-lg-3 col-md-4 col-xs-6">
+                 <div class="col-lg-4 col-md-4 col-xs-6">
       <a href="#" class="d-block mb-4 h-100">
-        <img class="img-fluid img-thumbnail" src={Twentyfive} alt=""/>
+        <img class="img-fluid img-thumbnail" src={Twentyfive} alt="Tattoo"/>
       </a>
     </div>
 
-            <div class="col-lg-3 col-md-4 col-xs-6">
+            <div class="col-lg-4 col-md-4 col-xs-6">
       <a href="#" class="d-block mb-4 h-100">
-        <img class="img-fluid img-thumbnail" src={Twentysix} alt=""/>
+        <img class="img-fluid img-thumbnail" src={Twentysix} alt="Tattoo"/>
       </a>
     </div>
     
-    <div class="col-lg-3 col-md-4 col-xs-6">
+    <div class="col-lg-4 col-md-4 col-xs-6">
       <a href="#" class="d-block mb-4 h-100">
-        <img class="img-fluid img-thumbnail" src={Twentyseven} alt=""/>
+        <img class="img-fluid img-thumbnail" src={Twentyseven} alt="Tattoo"/>
       </a>
     </div>
 
-                 <div class="col-lg-3 col-md-4 col-xs-6">
+                 <div class="col-lg-4 col-md-4 col-xs-6">
       <a href="#" class="d-block mb-4 h-100">
-        <img class="img-fluid img-thumbnail" src={Twentyeight} alt=""/>
+        <img class="img-fluid img-thumbnail" src={Twentyeight} alt="Tattoo"/>
       </a>
     </div>
 
-            <div class="col-lg-3 col-md-4 col-xs-6">
+            <div class="col-lg-4 col-md-4 col-xs-6">
       <a href="#" class="d-block mb-4 h-100">
-        <img class="img-fluid img-thumbnail" src={Twentynine} alt=""/>
+        <img class="img-fluid img-thumbnail" src={Twentynine} alt="Tattoo"/>
+      </a>
+    </div>
+
+              <div class="col-lg-4 col-md-4 col-xs-6">
+      <a href="#" class="d-block mb-4 h-100">
+        <img class="img-fluid img-thumbnail" src={Thirty} alt="Tattoo"/>
+      </a>
+    </div>
+
+      <div class="col-lg-4 col-md-4 col-xs-6">
+      <a href="#" class="d-block mb-4 h-100">
+        <img class="img-fluid img-thumbnail" src={Thirtyone} alt="Tattoo"/>
+      </a>
+    </div>
+
+                 <div class="col-lg-4 col-md-4 col-xs-6">
+      <a href="#" class="d-block mb-4 h-100">
+        <img class="img-fluid img-thumbnail" src={Thirtytwo} alt="Tattoo"/>
+      </a>
+    </div>
+
+            <div class="col-lg-4 col-md-4 col-xs-6">
+      <a href="#" class="d-block mb-4 h-100">
+        <img class="img-fluid img-thumbnail" src={Thirtythree} alt="Tattoo"/>
+      </a>
+    </div>
+
+              <div class="col-lg-4 col-md-4 col-xs-6">
+      <a href="#" class="d-block mb-4 h-100">
+        <img class="img-fluid img-thumbnail" src={Thirtyfour} alt="Tattoo"/>
+      </a>
+    </div>
+
+                 <div class="col-lg-4 col-md-4 col-xs-6">
+      <a href="#" class="d-block mb-4 h-100">
+        <img class="img-fluid img-thumbnail" src={Thirtyfive} alt="Tattoo"/>
+      </a>
+    </div>
+
+            <div class="col-lg-4 col-md-4 col-xs-6">
+      <a href="#" class="d-block mb-4 h-100">
+        <img class="img-fluid img-thumbnail" src={Thirtysix} alt="Tattoo"/>
+      </a>
+    </div>
+    
+    <div class="col-lg-4 col-md-4 col-xs-6">
+      <a href="#" class="d-block mb-4 h-100">
+        <img class="img-fluid img-thumbnail" src={Thirtyseven} alt="Tattoo"/>
+      </a>
+    </div>
+
+                 <div class="col-lg-4 col-md-4 col-xs-6">
+      <a href="#" class="d-block mb-4 h-100">
+        <img class="img-fluid img-thumbnail" src={Thirtyeight} alt="Tattoo"/>
+      </a>
+    </div>
+
+            <div class="col-lg-4 col-md-4 col-xs-6">
+      <a href="#" class="d-block mb-4 h-100">
+        <img class="img-fluid img-thumbnail" src={Thirtynine} alt="Tattoo"/>
       </a>
     </div>
 
