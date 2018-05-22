@@ -1,2 +1,2 @@
 # TattooGallery
-Tattoo Parlor Gallery Website for Mitar Djinovic
+Tattoo Studio Akademija - Gallery Website for Mitar Djinovic
