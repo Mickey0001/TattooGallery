@@ -1,5 +1,7 @@
 body, .jumbotron {
   background: #000;
+  color: #fff;
+  font-family: 'Nova Square';
 } 
 .jumbotron {
   margin: 0 auto;
@@ -10,5 +12,5 @@ body, .jumbotron {
 }
 .img-thumbnail {
   height: 400px;
-  width: 300px;
+  width: 350px;
 }
