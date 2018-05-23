@@ -5,9 +5,9 @@ const Header = () => (
       <div className="row">
           <img src={Cover} className="img-fluid" alt="Tattoo Studio Akademija Logo"/>
           <div className="text-center">
-            <h1>MITAR ĐINOVIĆ</h1>
-            <h3>Akademski umetnik sa master studijama i profesionalni tattoo majstor. Kako sam počeo, spojio crtanje i tetoviranje, opširnije govorim u nastavku teksta.</h3><br/>
-          </div>
+            <h1>MITAR ĐINOVIĆ</h1><br/>
+            <h3 className="text-center">Akademski umetnik sa master studijama i profesionalni tattoo majstor. </h3><br/>
+          </div><br/>
       </div>
   );
 export default Header;
