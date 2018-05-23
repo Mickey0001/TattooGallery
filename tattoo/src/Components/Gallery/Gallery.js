@@ -39,7 +39,7 @@ import Thirtyeight from '../../../src/Images/38.jpg';
 import Thirtynine from '../../../src/Images/39.jpg';
 
 const Gallery = () => (
-  <div className="row">
+  <div className="row gallery">
 
    <div className="col-lg-4 col-md-4 col-xs-6">
       <a className="d-block mb-4 h-100">

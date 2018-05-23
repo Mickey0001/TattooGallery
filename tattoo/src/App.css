@@ -1,8 +1,11 @@
-body, .jumbotron {
+.jumbotron, .container {
   background: #000;
   color: #f2f2f2;
   font-family: 'Nova Square';
 } 
+body {
+  background: #aa0618;
+}
 .jumbotron {
   margin: 0 auto;
 }
@@ -28,6 +31,10 @@ h2,  {
   margin-bottom: 20px;
 }
 .foooter {
+  margin-top: 30px;
+  padding-bottom: 10px;
+}
+.gallery {
   margin-top: 30px;
   margin-bottom: 10px;
 }
