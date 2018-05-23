@@ -1,6 +1,6 @@
 body, .jumbotron {
   background: #000;
-  color: #fff;
+  color: #f2f2f2;
   font-family: 'Nova Square';
 } 
 .jumbotron {
@@ -16,4 +16,18 @@ body, .jumbotron {
 }
 .row {
   margin-left: 0px;
+}
+p {
+  font-size: 17px;
+  text-align: justify;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+h2,  {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.foooter {
+  margin-top: 30px;
+  margin-bottom: 10px;
 }

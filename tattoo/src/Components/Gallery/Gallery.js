@@ -267,8 +267,6 @@ const Gallery = () => (
         <img className="img-fluid img-thumbnail" src={Thirtynine} alt="Tattoo"/>
       </a>
     </div>
-
-</div>
-
+</div> 
   );
 export default Gallery;
